@@ -4,6 +4,7 @@
 ## Running the application
 ` $ java -jar sentiment-analysis-web-0.0.1-SNAPSHOT.jar --sa.logic.api.url=http://localhost:5000 ` 
 
+Test code
 ## Building the container
 ` $ docker build -f Dockerfile -t $DOCKER_USER_ID/sentiment-analysis-web-app . `
 
